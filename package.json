@@ -27,6 +27,10 @@
   },
   "homepage": "https://github.com/rafaelrinaldi/hyper-terminal-tabs#readme",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "xo --compact --esnext --space",
+    "test": "npm run lint"
+  },
+  "devDependencies": {
+    "xo": "^0.17.1"
   }
 }
