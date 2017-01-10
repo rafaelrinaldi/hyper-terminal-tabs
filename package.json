@@ -1,0 +1,32 @@
+{
+  "name": "hyper-terminal-tabs",
+  "version": "0.1.0",
+  "description": "Brings Terminal.app look and feel to Hyper",
+  "main": "index.js",
+  "keywords": [
+    "colors",
+    "hyper",
+    "hyper-theme",
+    "hyperterm",
+    "hyperterm-theme",
+    "mac",
+    "macos",
+    "osx",
+    "tabs",
+    "terminal",
+    "theme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelrinaldi/hyper-terminal-tabs.git"
+  },
+  "author": "Rafael Rinaldi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafaelrinaldi/hyper-terminal-tabs/issues"
+  },
+  "homepage": "https://github.com/rafaelrinaldi/hyper-terminal-tabs#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
