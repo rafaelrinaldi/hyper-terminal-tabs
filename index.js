@@ -10,6 +10,10 @@ const css = `
     margin-top: 38px;
   }
 
+  .tabs_nav .tabs_borderShim {
+    display: none;
+  }
+
   .tabs_list {
     margin-left: 0 !important;
   }
