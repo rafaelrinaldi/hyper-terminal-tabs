@@ -36,12 +36,13 @@ const css = `
     border-color: #A0A0A0 !important;
   }
 
-  .tabs_nav .tab_tab:first-of-type {
-    border-left: 1px solid transparent !important;
+  .tabs_nav .tab_first {
+    border-left-width: 0 !important;
+    padding-left: 1px;
   }
 
   .tabs_nav .tabs_tab:last-of-type {
-    border-right: 1px solid transparent !important;
+    border-right-color: transparent !important;
   }
 
   .tabs_nav .tab_tab:not(.tab_active) {
