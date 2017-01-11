@@ -73,7 +73,7 @@ const css = `
   }
 
   .tabs_nav .tabs_list .tab_icon:hover {
-    background-color: #C0C0C0;
+    background-color: rgba(0, 0, 0, 0.075);
   }
 
   .tabs_nav .tabs_list .tab_icon svg {
