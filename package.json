@@ -1,6 +1,6 @@
 {
   "name": "hyper-terminal-tabs",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Brings Terminal.app look and feel to Hyper",
   "main": "index.js",
   "keywords": [
