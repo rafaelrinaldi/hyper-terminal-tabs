@@ -37,11 +37,11 @@ const css = `
   }
 
   .tabs_nav .tab_tab:first-of-type {
-    border-left-color: transparent !important;
+    border-left: 1px solid transparent !important;
   }
 
   .tabs_nav .tabs_tab:last-of-type {
-    border-right-color: transparent !important;
+    border-right: 1px solid transparent !important;
   }
 
   .tabs_nav .tab_tab:not(.tab_active) {
