@@ -26,8 +26,16 @@
     "url": "https://github.com/rafaelrinaldi/hyper-terminal-tabs/issues"
   },
   "homepage": "https://github.com/rafaelrinaldi/hyper-terminal-tabs#readme",
+  "xo": {
+    "space": true,
+    "esnext": true,
+    "envs": [
+      "node"
+    ],
+    "compact": true
+  },
   "scripts": {
-    "lint": "xo --compact --esnext --space",
+    "lint": "xo",
     "test": "npm run lint"
   },
   "devDependencies": {
