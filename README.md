@@ -2,7 +2,7 @@
 
 > Brings Terminal.app look and feel to Hyper
 
-<img width=1030 src=screenshot.jpg>
+![](screenshot.jpg?raw=true)
 
 ## Install
 
