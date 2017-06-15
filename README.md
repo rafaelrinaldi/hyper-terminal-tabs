@@ -10,7 +10,7 @@ Simply add `hyper-terminal-tabs` to the `plugins` list under your `~/.hyper.js` 
 
 ## Related
 
-* [`hyperterm-mac-tabs`](https://github.com/insanityfarm/hyperterm-mactabs)
+* [`hyperterm-mactabs`](https://github.com/insanityfarm/hyperterm-mactabs)
 * [`hyper-native`](https://github.com/leo/hyper-native)
 
 
